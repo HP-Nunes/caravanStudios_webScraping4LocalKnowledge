@@ -1,8 +1,9 @@
 <a href="https://www.caravanstudios.org/about" target=_blank title="Caravan Studios"><img align="left" width="200" height="200" src="img/csLogo.png" target=_blank/></a>
 # <center>EU Commission Grant Exploratory Research: Polish Discourse on Social Media on Air Pollution</a></center>
 <br>
-<br>
+
 ## Background
+
 As the Citizen Science Research Intern at Caravan Studios, I was tasked to explore the air pollution discourse online for Poland, the EU country with the worst air pollution record. My aim was to 1) gain a temporal and spatial understanding of the interest about air pollution in Poland and 2) have a sense of the popular discourse about air pollution. To expand on the latter: how did Poles express themselves about air pollution (whom did they blame, how did they describe the impact of pollution on daily life etc.). 
 
 I investigated different social media sources, including: Twitter, Facebook, Reddit, Wykop, NK.pl, and Google Trends. Here's the summary of my outputs per sources below:
