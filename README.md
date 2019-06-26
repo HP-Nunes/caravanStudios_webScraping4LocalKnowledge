@@ -21,4 +21,4 @@ I investigated different social media sources, including: Twitter, Facebook, Red
 
 ## Method: Scraping all posts mentioning 'smog' on Wykop.pl
 
-<center><img src="img/Wykop_flowchart(2).png"/></center>
+<center><img src="img/Wykop_flowchart (2).png"/></center>
