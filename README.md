@@ -19,5 +19,6 @@ I investigated different social media sources, including: Twitter, Facebook, Red
 
 * <b>Wykop</b>: The "Polish Reddit". Wykop was my richest source of information: I was able to scrape over 7,000 posts, dating as far back to 2012, mentioning smog. I was able to generate a timeseries of the frequency of the posts, in addition to a word cloud. 
 
-## Method
+## Method: Scraping all posts mentioning 'smog' on Wykop.pl
 
+<center><img src="img/Wykop_flowchart(2).png"/></center>
