@@ -25,4 +25,8 @@ I investigated different social media sources, including: Twitter, Facebook, Red
 <center><img src="img/Wykop_flowchart.png"/></center>
 
 ## Plotly
-<img src="poland_GTrends_TimeS.html">
+<iframe src="poland_GTrends_TimeS.html"
+        height="600" width="100%"
+        scrolling="no" seamless="seamless"
+        frameBorder="0">
+</iframe>
